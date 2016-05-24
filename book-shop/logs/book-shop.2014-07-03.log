@@ -1,0 +1,45 @@
+2014-07-03 11:14:10 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 11:19:35 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 12:25:38 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 12:27:27 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 12:45:45 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 12:47:02 [25246738@qtp-1026511-5] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 12:47:02 [25246738@qtp-1026511-5] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_comments' cannot be null
+2014-07-03 13:00:36 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:01:08 [31520656@qtp-1026511-3] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:01:08 [31520656@qtp-1026511-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_authorname' cannot be null
+2014-07-03 13:01:40 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:02:05 [5699121@qtp-3201069-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:02:05 [5699121@qtp-3201069-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_authorname' cannot be null
+2014-07-03 13:07:46 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:09:45 [17741486@qtp-5592862-5] WARN  o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+2014-07-03 13:09:52 [17741486@qtp-5592862-5] WARN  o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+2014-07-03 13:11:31 [7722588@qtp-5592862-6] WARN  o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+2014-07-03 13:12:07 [18693832@qtp-5592862-7] WARN  o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+2014-07-03 13:12:27 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:15:19 [23631794@qtp-5592862-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:15:19 [23631794@qtp-5592862-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_pictures' cannot be null
+2014-07-03 13:21:38 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:22:02 [31702491@qtp-5592862-3] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:22:02 [31702491@qtp-5592862-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'if_on_sale' cannot be null
+2014-07-03 13:24:43 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:25:11 [23631794@qtp-5592862-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:25:11 [23631794@qtp-5592862-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_pictures' at row 1
+2014-07-03 13:30:26 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:30:44 [13271847@qtp-1026511-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:30:44 [13271847@qtp-1026511-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_pictures' at row 1
+2014-07-03 13:31:06 [13271847@qtp-1026511-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:31:06 [13271847@qtp-1026511-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_pictures' at row 1
+2014-07-03 13:32:04 [13271847@qtp-1026511-0] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:32:04 [13271847@qtp-1026511-0] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_pictures' at row 1
+2014-07-03 13:34:46 [2898188@qtp-1026511-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:34:46 [2898188@qtp-1026511-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_comments' cannot be null
+2014-07-03 13:34:46 [2898188@qtp-1026511-6] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1048, SQLState: 23000
+2014-07-03 13:34:46 [2898188@qtp-1026511-6] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Column 'book_comments' cannot be null
+2014-07-03 13:35:08 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:35:36 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
+2014-07-03 13:35:59 [19717408@qtp-5592862-3] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:35:59 [19717408@qtp-5592862-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_comments' at row 1
+2014-07-03 13:36:51 [19717408@qtp-5592862-3] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1263, SQLState: 22001
+2014-07-03 13:36:51 [19717408@qtp-5592862-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Data truncation: Column set to default value; NULL supplied to NOT NULL column 'book_comments' at row 1
+2014-07-03 13:37:03 [main] WARN  o.hibernate.ejb.HibernatePersistence - HHH015016: Encountered a deprecated javax.persistence.spi.PersistenceProvider [org.hibernate.ejb.HibernatePersistence]; use [org.hibernate.jpa.HibernatePersistenceProvider] instead.
