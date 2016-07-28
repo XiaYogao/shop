@@ -1,0 +1,27 @@
+#target/
+target/
+
+# IDEA #
+book-shop/.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+# Log #
+logs/
+*.log%     
+*.log
+#mac 
+.DS_Store
+
+#svn
+.svn
+/bin/
+
+
+#lucene
+INDEX_FILE.idx/
+REC_INDEX_FILE.idx/
