@@ -2,7 +2,7 @@
 target/
 
 # IDEA #
-book-shop/.idea/
+.idea/
 *.iml
 
 # Eclipse #
